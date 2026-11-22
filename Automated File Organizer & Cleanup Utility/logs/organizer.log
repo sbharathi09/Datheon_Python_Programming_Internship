@@ -1,0 +1,35 @@
+﻿
+INFO: [DRY RUN] backup.zip -> Archives\backup.zip
+INFO: [DRY RUN] data.xyz -> Others\data.xyz
+INFO: [DRY RUN] notes.txt -> Documents\notes.txt
+INFO: [DRY RUN] photo.jpg -> Images\photo.jpg
+INFO: [DRY RUN] report.pdf -> Documents\report.pdf
+INFO: [DRY RUN] script.py -> Code\script.py
+INFO: [DRY RUN] video.mp4 -> Videos\video.mp4
+INFO: Moved: backup.zip -> Archives\backup.zip
+INFO: Moved: data.xyz -> Others\data.xyz
+INFO: Moved: notes.txt -> Documents\notes.txt
+INFO: Moved: photo.jpg -> Images\photo.jpg
+INFO: Moved: report.pdf -> Documents\report.pdf
+INFO: Moved: script.py -> Code\script.py
+INFO: Moved: video.mp4 -> Videos\video.mp4
+INFO: [DRY RUN] even_or_odd_check.py -> Code\even_or_odd_check.py
+INFO: [DRY RUN] hello_world.py -> Code\hello_world.py
+INFO: [DRY RUN] History and Evolution of Python.pdf -> Documents\History and Evolution of Python.pdf
+INFO: [DRY RUN] notes.txt -> Documents\notes.txt
+INFO: [DRY RUN] Python frameworks and libraries.docx -> Documents\Python frameworks and libraries.docx
+INFO: [DRY RUN] Python Programming.pdf -> Documents\Python Programming.pdf
+INFO: [DRY RUN] python.png -> Images\python.png
+INFO: [DRY RUN] Python.webp -> Images\Python.webp
+INFO: [DRY RUN] Use cases for Python.rtf -> Others\Use cases for Python.rtf
+INFO: Moved: even_or_odd_check.py -> Code\even_or_odd_check.py
+INFO: Moved: hello_world.py -> Code\hello_world.py
+INFO: Moved: History and Evolution of Python.pdf -> Documents\History and Evolution of Python.pdf
+INFO: Moved: notes.txt -> Documents\notes.txt
+INFO: Moved: Python frameworks and libraries.docx -> Documents\Python frameworks and libraries.docx
+INFO: Moved: Python Programming.pdf -> Documents\Python Programming.pdf
+INFO: Moved: python.png -> Images\python.png
+INFO: Moved: Python.webp -> Images\Python.webp
+INFO: Moved: Use cases for Python.rtf -> Others\Use cases for Python.rtf
+INFO: [DRY RUN] Use cases for Python.rtf -> Documents\Use cases for Python.rtf
+INFO: Moved: Use cases for Python.rtf -> Documents\Use cases for Python.rtf
